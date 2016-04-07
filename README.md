@@ -1,1 +1,1 @@
-# envia-e-mail-smtp-gmail-phpmailer
+Classe para enviar e-mail's dos formulários de site. 
